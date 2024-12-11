@@ -1,4 +1,4 @@
-# run following commands step by step
+# run following commands step by step 🙏🏻
 
 - composer install
 - ren .env.example .env
